@@ -7,7 +7,7 @@
     {
       "_template": "hero",
       "headline": "Next Gen Conte1231231nt Management",
-      "subline": "Tina is an open-source, Git-backed CMS with the ability to add visual editing to your NextJS site",
+      "subline": "Tina is an open-source, Git-backed 123123CMS with the ability to add visual editing to your NextJS site",
       "actions": [
         {
           "variant": "orange",
@@ -16,7 +16,7 @@
           "url": "/docs/setup-overview/"
         },
         {
-          "variant": "command",
+          "variant": "button",
           "label": "npx create-tina-app@latest"
         }
       ],
@@ -37,7 +37,7 @@
         },
         {
           "_template": "feature",
-          "headline": "Edit with Real-Time Visual Feedback",
+          "headline": "Edit with Real-Time Vis123123ual Feedback",
           "subline": "Accelerate productivity; see changes in context as you edit your content on your website.",
           "media": {
             "videoSrc": "v1627927996/tina-io/dynamic-editing"
@@ -61,7 +61,7 @@
         },
         {
           "_template": "feature",
-          "headline": "Command Line Quickstart",
+          "headline": "Command Line Quickstart123123",
           "subline": "[Bootstrap your Next.js project with Tina](/docs/setup-overview/) setup and get started in minutes.",
           "media": {
             "cli": true
@@ -75,7 +75,7 @@
       "subline": "Learn the basics of the development workflow",
       "actions": [
         {
-          "variant": "orange",
+          "variant": "button",
           "label": "Check out the docs",
           "icon": "arrowRight",
           "url": "/docs/setup-overview/"
